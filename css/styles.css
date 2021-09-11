@@ -17,7 +17,12 @@ main{
     justify-content: flex-start;
     align-items: center;
     background-color: teal;
-    padding: 30px 0px;
+    padding: 30px 0px 30px 30px;
+    margin-bottom: 25px;
+}
+
+.header span, #current-page{
+    margin-left: 10px;
 }
 
 header a{
@@ -58,7 +63,7 @@ header a:hover{
     color: darkslategray;
     box-shadow: inset 0 -3em 3em rgba(0,0,0,0.1),
     0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
-    margin: 50px 0px;
+    margin: 25px 0px;
 }
 
 .recipe-card:hover{
