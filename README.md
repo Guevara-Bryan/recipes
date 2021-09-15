@@ -1,2 +1,4 @@
 # recipes
-Alternate first project from The Odin Project.
+Simple HTML and CSS recipies web page.
+
+
